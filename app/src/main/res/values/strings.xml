@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Los Games</string>
+    <string name="warningNameGamers">Entrer le nom des deux joueurs</string>
+</resources>
